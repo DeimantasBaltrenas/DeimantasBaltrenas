@@ -13,4 +13,4 @@ My main tech stack:
 - JavaScript
 - React
 
-**What I'm up to right now:** I'm stepping out of my comfort zone to study Data & AI at a bootcamp.
+**What I'm up to right now:** I'm stepping out of my comfort zone to study Data & AI at Accenture bootcamp.
