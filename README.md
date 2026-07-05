@@ -2,7 +2,7 @@
 
 I'm Deimantas, a **UI/UX designer and front-end developer** based in Lithuania.
 
-I design and build **web apps**. My process is simple: every idea starts in **Figma**.
+I design and build **web applications**. My process is simple: every idea starts in **Figma**.
 
 I focus on the whole picture: crafting an intuitive user experience and clean visual design. Once a concept is logical and looks right, I jump into the code to build it and bring it to life.
 
