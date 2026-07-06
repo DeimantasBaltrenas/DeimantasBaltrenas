@@ -12,7 +12,7 @@ I focus on the whole picture: crafting an intuitive user experience and clean vi
 - Figma
 
 ## What I'm up to right now
-I'm stepping out of my comfort zone to study Data & AI at Accenture bootcamp.
+---------------------------------------------------------
 
 ## Few facts about me
 - 🍅 I hate tomatoes
