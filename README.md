@@ -12,7 +12,7 @@ I focus on the whole picture: crafting an intuitive user experience and clean vi
 - Figma
 
 ## What I'm up to right now
----------------------------------------------------------
+-
 
 ## Few facts about me
 - 🍅 I hate tomatoes
