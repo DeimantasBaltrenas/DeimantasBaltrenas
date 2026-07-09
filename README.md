@@ -12,7 +12,7 @@ I focus on the whole picture: crafting an intuitive user experience and clean vi
 - Adobe Creative Cloud for graphic design
 
 ## 🔜 What I'm up to right now
-I'm stepping out of my comfort zone to study Data & AI at Accenture bootcamp.
+I'm stepping out of my comfort zone to study Data Engineering at Accenture Bootcamp.
 
 ## Few facts about me 🙋‍♂️
 - 🍅 I hate tomatoes
