@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm Deimantas, a **UI/UX designer and front-end developer** based in Lithuania.
+I'm Deimantas, **UI/UX designer and developer** with a growing interest in **full-stack development**
 
-I design and build **web applications**. My process is simple: every idea starts in **Figma**.
+Day to day, I work across the design process, from concepts, wireframes, and user flows to interactive prototypes in Figma, design systems, and developer hand-off.
 
-I focus on the whole picture: crafting an intuitive user experience and clean visual design. Once a concept is logical and looks right, I jump into the code to build it and bring it to life.
+Currently I’m gaining experience in back-end technologies and data engineering, with a focus on full-stack web development.
 
 ## 🔣 Tools & Tech
 - Figma
