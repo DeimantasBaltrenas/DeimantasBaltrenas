@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- **UI/UX designer and developer** with a growing interest in **full-stack development**
+ I'm Deimantas, **UI/UX designer and developer** with a growing interest in **full-stack development**
 
 Day to day, I work across the design process, from concepts, wireframes, and user flows to interactive prototypes in Figma, design systems, and developer hand-off.
 
